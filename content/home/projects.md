@@ -24,11 +24,9 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
+  # filter_button:
     - name: Self-Referential Probability and Rationality
-       tag: Self-Referential Probability, Norms of Rationality, Imprecise Credences, Vagueness
+     
     
 
 design:
