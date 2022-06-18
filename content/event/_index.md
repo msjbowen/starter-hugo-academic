@@ -12,4 +12,10 @@ view: 2
 header:
   caption: ''
   image: ''
+  
+  
+ Comparative Beliefs and Imprecise Credences, European Epistemology Network Conference, COGITO, University of Glasgow, 16th June 2022 
+  
+  
+  
 ---
