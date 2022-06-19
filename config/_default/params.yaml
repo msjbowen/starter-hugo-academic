@@ -103,13 +103,8 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-    
-plugins:
-    css:
-      - URL: css/main.css
-      - URL: css/rad-icons.css
-      - URL: css/academicons/css/academicons.css
-      - URL: css/custom.css
+
+
 
 
 # Security
