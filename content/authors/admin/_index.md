@@ -6,7 +6,7 @@ title: Miriam Bowen
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Recent PhD Graduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
