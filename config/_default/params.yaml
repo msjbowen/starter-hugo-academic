@@ -103,9 +103,7 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-  netlify_cms:
-  enable: true
- 
+  
 
 
 # Security
