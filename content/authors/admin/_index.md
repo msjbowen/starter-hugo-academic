@@ -56,7 +56,7 @@ social:
  #   icon_pack: fab
  #   link: https://github.com/msjbowen
   -icon: researchgate
-   icon_pack: ai
+   icon_pack: academicicons
    link: https://www.researchgate.net/profile/Miriam-Bowen
   - icon: linkedin
     icon_pack: fab
