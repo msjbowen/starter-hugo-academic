@@ -101,8 +101,10 @@ extensions:
   cms:
     branch: main
     local_backend: false
-  academicons: true
+  academicons:
     enable: true
+    
+link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/
 
 # Security
 
