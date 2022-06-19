@@ -104,9 +104,8 @@ extensions:
   academicons:
     enable: true
 
-[icon.pack] :
-ai:
-enable: true
+[icon.pack]:
+ ai : true 
 
 
 
