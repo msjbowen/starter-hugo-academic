@@ -60,7 +60,7 @@ social:
  #  link: https://www.researchgate.net/profile/Miriam-Bowen
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/miriam-bowen-559867181
+    link: https://www.linkedin.com/in/miriam-bowen-559867181/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=uk
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
