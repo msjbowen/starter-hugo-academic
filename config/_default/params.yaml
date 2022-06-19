@@ -100,7 +100,7 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: true
+    local_backend: false
   academicons: 
     enable: true
   
