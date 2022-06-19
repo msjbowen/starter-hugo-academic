@@ -104,7 +104,13 @@ extensions:
   academicons:
     enable: true
     
-link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/
+plugins:
+    css:
+      - URL: css/main.css
+      - URL: css/rad-icons.css
+      - URL: css/academicons/css/academicons.css
+      - URL: css/custom.css
+
 
 # Security
 
