@@ -52,12 +52,15 @@ social:
  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
  #   icon_pack: fas
  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/msjbowen
+ # - icon: github
+ #   icon_pack: fab
+ #   link: https://github.com/msjbowen
+  -icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Miriam-Bowen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/miriam-bowen-559867181
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
