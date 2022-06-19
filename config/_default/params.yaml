@@ -105,9 +105,7 @@ extensions:
     enable: true
   netlify_cms:
   enable: true
-  ai: 
-  enable: true
-
+ 
 
 
 # Security
