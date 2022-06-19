@@ -103,8 +103,10 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+  netlify_cms:
+  enable: true
   ai: 
-  enable : true 
+  enable: true
 
 
 
