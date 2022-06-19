@@ -101,7 +101,7 @@ extensions:
   cms:
     branch: main
     local_backend: false
-  academicons:
+  academicons: true
     enable: true
 
 # Security
