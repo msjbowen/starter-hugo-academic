@@ -77,7 +77,7 @@ highlight_name: true
 ---
 I work on self-referential probability and rationality. Self-referential probability senarios are situations where the agent's credences can act as evidence for the truth or likelihood of a proposition. My focus has been on the Probabilistic Liar, which has structural similarity to the Liar paradox.
 
-In my PhD I used the Probabilistic Liar as a useful example and focus to explore the suspended judgment in a credal framwork, norms of rationality and their underlying logics, the nature of degrees of belief and problems for indeterminacy and the logic of higher order indeterminacy. I am now working on extending my account of indeterminacy to decision theory.
+In my PhD I used the Probabilistic Liar as a useful example and focus to explore suspended judgment in a credal framwork, norms of rationality and their underlying logics, the nature of degrees of belief and problems for indeterminacy and the logic of higher order indeterminacy. I am now working on extending my account of indeterminacy to decision theory.
 
 I also have an interest in questions about the connection between belief formation and imagination. I am interested in these questions in the context of self-deception.
 
