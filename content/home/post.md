@@ -13,6 +13,10 @@ title: Work in Progress
 subtitle:
 
 content:
+
+Suspended Judgment: A solution to the Probabilistic Liar.
+
+
   # Filter on criteria
   filters:
     folders:
