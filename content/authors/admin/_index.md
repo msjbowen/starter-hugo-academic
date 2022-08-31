@@ -6,12 +6,12 @@ title: Miriam Bowen
 superuser: true
 
 # Role/position/tagline
-role: Recent PhD Graduate
+role: Associate Lecturer (Education Focused) in Philosophy (Logic & Language)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Leeds
-    url: https://www.leeds.ac.uk/
+  - name: University of St Andrews
+    url: https://www.st-andrews.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include self-referential probability and rationality. 
