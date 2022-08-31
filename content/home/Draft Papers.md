@@ -18,6 +18,6 @@ design:
 
 
 ### The Cognitive Role of Indeterminacy
-> There are a variety of norms that purport to govern what attitude an agent ought to adopt. It is unclear, however, what attitude a rational agent ought to have towards an indeterminate proposition or whether there is a norm that prescribes an attitude. It is also unclear what falls under the term `indeterminate' and the range of phenomena that might be referred to as `indeterminate'
+> There are a variety of norms that purport to govern what attitude an agent ought to adopt. It is unclear, however, what attitude a rational agent ought to have towards an indeterminate proposition or whether there is a norm that prescribes an attitude. It is also unclear what falls under the term indeterminate and the range of phenomena that might be referred to as indeterminate. 
 This paper address the normative question of what attitude a rational agent ought to adopt towards cases of indeterminacy. I defend the view that indeterminacy should be understood as an umbrella term that encompasses a range of related phenomena. In light of this I argue we should adopt a position I call modest pluralism to the normative question. Modest pluralism holds that there is no unique attitude an agent ought to adopt to cases of indeterminacy, but rather a range of permissible attitudes to adopt.
 
