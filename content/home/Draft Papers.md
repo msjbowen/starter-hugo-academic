@@ -11,3 +11,6 @@ design:
   columns: '2'
 ---
 
+## Suspended Judgment: A solution to the Probabilistic Liar
+### The Cognitive Role of Indeterminacy
+
