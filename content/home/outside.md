@@ -26,5 +26,5 @@ I've taken part in two filming projects as a cellist:
 * Out of the Darkness (2013): Working with writer and director [**Emma Lucia Hands**](https://emmalucia.co.uk/) on her short film funded by the Arts Council of Wales.
 
 
-![screen reader text](cello.jpg "Abandoned Places, Photo from Rochyne Delaney McNulty")
+![Abandoned Places](cello.jpg "Abandoned Places, Photo from Rochyne Delaney McNulty")
 
