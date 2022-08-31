@@ -21,9 +21,9 @@ I also play the cello and have performed with ensembles across the UK and Europe
 
 I've taken part in two filming projects as a cellist: 
 
-* Prélude (2020): A proof of concept piece for director, producer and film maker [**Rochyne Delaney McNulty’s**](https://rochynedm.wixsite.com/portfolio) (successful!) funding bid with Bradford Arts Council. 
+* **Prélude** (2020): A proof of concept piece for director, producer and film maker [**Rochyne Delaney McNulty’s**](https://rochynedm.wixsite.com/portfolio) (successful!) funding bid with Bradford Arts Council. 
 
-* Out of the Darkness (2013): Working with writer and director [**Emma Lucia Hands**](https://emmalucia.co.uk/) on her short film funded by the Arts Council of Wales.
+* **Out of the Darkness** (2013): Working with writer and director [**Emma Lucia Hands**](https://emmalucia.co.uk/) on her short film funded by the Arts Council of Wales.
 
 
 ![Abandoned Places](cello.jpg "Abandoned Places, Photo from Rochyne Delaney McNulty")
