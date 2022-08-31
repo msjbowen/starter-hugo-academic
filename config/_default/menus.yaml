@@ -11,8 +11,8 @@ main:
     url: '#projects'
     weight: 20
   -name: Draft Papers
-  url: '#projects'
-  weight: 30
+   url: ''
+   weight: 30
   - name: Contact
     url: '#contact'
     weight: 40
