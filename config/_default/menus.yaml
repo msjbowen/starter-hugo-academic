@@ -13,9 +13,6 @@ main:
   - name: Draft Papers
     url: '#draftpapers'
     weight: 30
-   - name: Outside Academia
-    url: '#contact'
-    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
