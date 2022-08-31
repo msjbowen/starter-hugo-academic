@@ -6,7 +6,7 @@ title: Miriam Bowen
 superuser: true
 
 # Role/position/tagline
-role: Associate Lecturer (Education Focused) in Philosophy (Logic & Language)
+role: Associate Lecturer in Philosophy (Logic & Language)
 
 # Organizations/Affiliations to show in About widget
 organizations:
